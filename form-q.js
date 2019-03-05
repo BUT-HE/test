@@ -50,7 +50,7 @@ export default {
 
   },
 
-  data(param) {
+  data() {
 
     return {
       fm: {},
